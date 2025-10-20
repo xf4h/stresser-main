@@ -1,0 +1,13 @@
+# Dependências externas
+colorama>=0.4.6   # Para colorir texto no terminal
+
+# Dependências da biblioteca padrão do Python (já vêm instaladas com o Python)
+# datetime        # Manipulação de datas e horas
+# sys             # Interação com o interpretador Python
+# getopt          # Leitura de argumentos de linha de comando
+# urllib.parse    # Parse de URLs
+# random          # Geração de números aleatórios
+# time            # Controle de tempo e pausas
+# multiprocessing # Processos paralelos
+# http.client     # Conexões HTTP/HTTPS
+# os              # Comandos do sistema operacional
