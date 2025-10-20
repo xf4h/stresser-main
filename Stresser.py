@@ -49,7 +49,7 @@ def show_menu():
     print_logo()
     print(f"{Fore.CYAN}  ******************************************")
     print(f"  *            Python Stresser             *")
-    print(f"  *      Made by github.com/induziram      *")
+    print(f"  *      Made by github.com/xf4h           *")
     print(f"  *      Advanced Network Stress Tool      *")
     print(f"  ******************************************{Style.RESET_ALL}\n")
 
@@ -336,4 +336,5 @@ if __name__ == "__main__":
         main()
     except KeyboardInterrupt:
         print(f"\n{Fore.RED}Program interrupted. Exiting...{Style.RESET_ALL}")
+
         sys.exit(0)
